@@ -2,9 +2,9 @@
 
 6-agent AI pipeline that generates legally-grounded health insurance appeal letters — taking a denied claim from raw PDF to a fully cited, jurisdiction-aware appeal document.
 
-[![Watch the Overturn launch video](media/poster.jpg)](media/overturn-launch-16x9.mp4)
+https://github.com/user-attachments/assets/4a66737b-a4af-445f-8ce4-12dac1497e28
 
-<sub>▶ Launch video: [landscape 16:9 · 24s](media/overturn-launch-16x9.mp4) · [vertical 9:16 for mobile · 24s](media/overturn-launch-9x16.mp4)</sub>
+<sub>▶ 24s launch video · [vertical 9:16 cut for mobile](media/overturn-launch-9x16.mp4) · [download landscape](media/overturn-launch-16x9.mp4)</sub>
 
 **Live:** https://overturn.co
 
