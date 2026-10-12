@@ -2,6 +2,10 @@
 
 6-agent AI pipeline that generates legally-grounded health insurance appeal letters — taking a denied claim from raw PDF to a fully cited, jurisdiction-aware appeal document.
 
+[![Watch the Overturn launch video](media/poster.jpg)](media/overturn-launch-16x9.mp4)
+
+<sub>▶ Launch video: [landscape 16:9 · 24s](media/overturn-launch-16x9.mp4) · [vertical 9:16 for mobile · 24s](media/overturn-launch-9x16.mp4)</sub>
+
 **Live:** https://overturn.co
 
 ---
@@ -38,3 +42,12 @@ Health insurance denials are overturned 77–91% of the time on external review 
 ## Stack
 
 TypeScript (npm workspaces) · Express + BullMQ · Next.js 16 · Expo (mobile) · Redis · Postgres · OpenRouter (DeepSeek + Claude Sonnet) · pdfkit
+
+---
+
+## Screenshots
+
+| | |
+|---|---|
+| ![overturn.co](media/screenshots/01-hero.jpg)<br><sub>overturn.co</sub> | ![Three steps: upload the denial, six agents work, download the letter](media/screenshots/02-steps.jpg)<br><sub>Three steps: upload the denial, six agents work, download the letter</sub> |
+| ![The data behind the odds](media/screenshots/03-data.jpg)<br><sub>The data behind the odds</sub> | ![Hand-curated statutes in six states, honest about the rest](media/screenshots/04-coverage.jpg)<br><sub>Hand-curated statutes in six states, honest about the rest</sub> |
